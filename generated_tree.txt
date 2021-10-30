@@ -1,0 +1,1282 @@
+A=1 B=1 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=2 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=3 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 G=1 H=1 failure
+                            H=2 solution
+                            H=3 failure
+                            H=4 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=4 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+A=2 B=1 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=2 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 solution
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=3 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 G=1 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=4 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+A=3 B=1 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 solution
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=2 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=3 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 G=1 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 solution
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=4 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+A=4 B=1 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=2 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=3 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 G=1 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 failure
+                        G=4 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 G=1 failure
+                        G=2 failure
+                        G=3 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=4 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
+    B=4 C=1 D=1 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 G=1 failure
+                        G=2 H=1 failure
+                            H=2 failure
+                            H=3 failure
+                            H=4 failure
+                        G=3 failure
+                        G=4 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=2 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+        C=3 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 failure
+            D=4 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=3 failure
+                E=4 failure
+        C=4 D=1 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=2 E=1 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=3 E=1 F=1 failure
+                    F=2 failure
+                    F=3 failure
+                    F=4 failure
+                E=2 failure
+                E=3 failure
+                E=4 failure
+            D=4 failure
